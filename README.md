@@ -24,3 +24,6 @@ descargar python https://www.python.org/downloads/
 
 -https://coddy.tech/
 ![image](https://github.com/user-attachments/assets/6df82011-90e2-4246-bcaa-8e0587943b00)
+
+## Diseño web con figma
+![image](https://github.com/user-attachments/assets/103bf296-934b-431c-8ca0-953186765149)
