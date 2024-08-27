@@ -21,3 +21,6 @@ tenemos link de referencia mas documentos Agosto 2024
 descargar python https://www.python.org/downloads/
 
 -programacion en linea
+
+-https://coddy.tech/
+![image](https://github.com/user-attachments/assets/6df82011-90e2-4246-bcaa-8e0587943b00)
