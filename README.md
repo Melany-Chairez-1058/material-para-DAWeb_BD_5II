@@ -12,3 +12,10 @@ tenemos link de referencia mas documentos Agosto 2024
  
  - Esta web contiene materiales curriculares (lecciones, ejercicios, exámenes, etc) bajo licencias libres (CC-by-sa).
  - https://www.mclibre.org/
+
+## ramework y lenguaje de programacion
+-paginasa web para programacion
+-https://www.w3schools.com/
+
+-python https://www.w3schools.com/python/default.asp
+descargar python https://www.python.org/downloads/
